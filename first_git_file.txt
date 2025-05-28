@@ -1,1 +1,2 @@
-creating github
+creating GitHub
+Adding new file to git
