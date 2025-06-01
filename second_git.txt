@@ -1,1 +1,2 @@
 Practicing Git commands 
+some how understanding and practicing
